@@ -345,19 +345,19 @@ $txt['languages_download_exists_different'] = 'Diferente';
 $txt['languages_download_copy'] = 'Copiar';
 $txt['languages_download_not_chmod'] = 'No puedes proceder con la instalación hasta que todos los archivos seleccionados para ser copiados sean escribibles.';
 $txt['languages_download_illegal_paths'] = 'El paquete contiene rutas ilegales - por favor contacte con K Dev Team';
-$txt['languages_download_complete'] = 'Installación completada';
+$txt['languages_download_complete'] = 'Instalación completada';
 $txt['languages_download_complete_desc'] = 'El paquete de idioma se instaló correctamente. Por favor haga clic <a href="%1$s">aquí</a> para volver a la página de idiomas';
 $txt['languages_delete_confirm'] = '¿Estás seguro de que quieres eliminar este idioma?';
 
-$txt['setting_frame_security'] = 'Frame Security Options';
-$txt['setting_frame_security_SAMEORIGIN'] = 'Allow Same Origin';
-$txt['setting_frame_security_DENY'] = 'Deny all frames';
-$txt['setting_frame_security_DISABLE'] = 'Disabled';
+$txt['setting_frame_security'] = 'Opciones de seguridad del marco';
+$txt['setting_frame_security_SAMEORIGIN'] = 'Permitir el mismo origen';
+$txt['setting_frame_security_DENY'] = 'Denegar todos los marcos';
+$txt['setting_frame_security_DISABLE'] = 'Inhabilitado';
 
-$txt['select_boards_from_list'] = 'Select boards which apply';
+$txt['select_boards_from_list'] = 'Seleccionar las tablas de la lista';
 
-$txt['topic_move_any'] = 'Allow moving of topics to read-only boards';
+$txt['topic_move_any'] = 'Permitir movimiento de temas a los tableros de sólo lectura';
 
-$txt['defaultMaxListItems'] = 'Maximum number of items per page in lists';
+$txt['defaultMaxListItems'] = 'El número máximo de objetos por página en las listas';
 
 ?>
